@@ -1,36 +1,8 @@
- [Säkeistö 1]
-Rankka viikko ja paljon pitkii päiviä takan
-Mielenkiintona piña colada ja rata
-Ilta on vielä nuori ja aikaa kumota
-Tää jäinen ulkokuori on aika tuhota
-
-[Kertosäe]
-Pidän kaksin käsin kiinni juomista niinku
-Cha, cha, cha, cha, cha, cha, cha, ei
-En mieti huomista ku tartun tuopista niinku
-Cha, cha, cha, cha, cha, cha, cha, ei
-$ [Säkeistö 1]
-Rankka viikko ja paljon pitkii päiviä takan
-Mielenkiintona piña colada ja rata
-Ilta on vielä nuori ja aikaa kumota
-Tää jäinen ulkokuori on aika tuhota
-
-[Kertosäe]
-Pidän kaksin käsin kiinni juomista niinku
-Cha, cha, cha, cha, cha, cha, cha, ei
-En mieti huomista ku tartun tuopista niinku
-Cha, cha, cha, cha, cha, cha, cha, ei
-Haluun olla sekasin ja vapaa huolista niinku
-Cha, cha, cha, cha, cha, cha, cha, ei
-Ja mä jatkan kunnes en enää pysy tuolissa niinku
-Cha, cha, cha, cha, cha, cha, cha, ei
-[Säkeistö 2]mista ku tartun tuopista niinku
-Muutama piña colada on jo takanaa, ei
-Silti mul on vielä naamataulu vakava, yeah, yeah, ye, ye, yeah
-Ilta on vielä nuori ja aikaa kumotaei
-Tää jäinen ulkokuori on aika tuhotaolissa niinku vou
-Parketti kutsuu mua ku en oo enää lukossa
-Niinku cha cha cha mä oon tulossa
-Nyt lähden tanssimaan
-[Kertosäe]
-Cha, cha, cha, cha, cha, cha,
+zwrotka_1
+refren_1
+zwrotka_2
+refren_2
+zwrotka_3
+refren_3
+zwrotka_4
+refren_4
