@@ -1,6 +1,6 @@
 [Outro]
 Niinku cha cha cha
-Cha, cha, cha, cha, cha, cha, cha, ahaa
+refren.txt
 Niinku cha cha cha
-Cha, cha, cha, cha, cha, cha, cha
-Cha, cha, cha, cha, cha, cha, cha
+refren.txt
+refren.txt
